@@ -1,0 +1,5 @@
+node_modules/
+credentials.json
+likes.json
+retweets.json
+.env
